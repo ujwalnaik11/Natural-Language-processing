@@ -9,3 +9,8 @@ Using various word embedding models retrieved a suitable response by cosine simi
 * BERT
 * Glove ,Word2Vec, TFIDF
 
+## 2.Named Entity Recognition for Kannada Language :
+Implements sequence labeling system to extract named entities (Persons, Locations, Organizations) from morphology-dense Kannada text with an accuracy of 91% .
+### Key skills:
+* Conditional Random Field (CRF), Bi-LSTM
+* Unigram , BPE (Subword Tokenisation)
